@@ -3,4 +3,5 @@
 
 ## RRT相关论文
 - Sample-based Algorithms for Optimal Motion Planning ---> Sertac  Karaman, Emilio  Frazzoli (2011)
+- Rapidly-Exploring Random Trees: A New Tool for Path Planning ---> Steven M. LaValle (2000)
 
